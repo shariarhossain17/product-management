@@ -1,0 +1,127 @@
+[
+  {
+    "productId": "633aae4cc08c2aa189e3c809",
+    "name": "Pran Chinigura Aromatic Rice - 5kg Bag",
+    "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "imageURLs": [
+      "https://chaldn.com/_mpimage/pran-chinigura-aromatic-rice-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108114&q=best&v=1&m=400&webp=1",
+      "https://chaldn.com/_mpimage/pran-nazirshail-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48089&q=low&v=1&m=400&webp=1"
+    ],
+    "unit": "bag",
+    "price": "357",
+    "quantity": 1200,
+    "status": "in-stock",
+    "category": "Rice",
+    "brand": {
+      "name": "Pran",
+      "id": "63396673ec4a972180d3495e"
+    },
+    "store": {
+      "name": "khulna",
+      "id": "6337398e96d1095f7ff4c826"
+    },
+    "suppliedBy": {
+      "name": "mezbaul abedin persian",
+      "id": "633971538daa318b30a1aae4"
+    },
+    "sellCount": 50
+  },
+  {
+    "productId": "633aae4cc08c2aa189e3c80a",
+    "name": "Pran Chinigura Aromatic Rice - 50kg",
+    "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "imageURLs": [
+      "https://chaldn.com/_mpimage/pran-chinigura-aromatic-rice-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108114&q=best&v=1&m=400&webp=1",
+      "https://chaldn.com/_mpimage/pran-nazirshail-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48089&q=low&v=1&m=400&webp=1"
+    ],
+    "unit": "bag",
+    "price": "1460",
+    "category": "Rice",
+    "brand": {
+      "name": "Pran",
+      "id": "63396673ec4a972180d3495e"
+    },
+    "store": {
+      "name": "khulna",
+      "id": "6337398e96d1095f7ff4c826"
+    },
+    "suppliedBy": {
+      "name": "mezbaul abedin persian",
+      "id": "633971538daa318b30a1aae4"
+    },
+    "sellCount": 10
+  },
+  {
+    "productId": "633aae4cc08c2aa189e3c80b",
+    "name": "Pran Nazirshail Rice - 5kg",
+    "description": "Pran Nazirshail Rice. Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "imageURLs": [
+      "https://chaldn.com/_mpimage/pran-nazirshail-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48089&q=low&v=1&m=400&webp=1",
+      "https://chaldn.com/_mpimage/pran-chinigura-aromatic-rice-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108114&q=best&v=1&m=400&webp=1"
+    ],
+    "unit": "bag",
+    "price": "378",
+    "category": "Rice",
+    "brand": {
+      "name": "Pran",
+      "id": "63396673ec4a972180d3495e"
+    },
+    "store": {
+      "name": "khulna",
+      "id": "6337398e96d1095f7ff4c826"
+    },
+    "suppliedBy": {
+      "name": "mezbaul abedin persian",
+      "id": "633971538daa318b30a1aae4"
+    },
+    "sellCount": 90
+  },
+  {
+    "productId": "633aae4cc08c2aa189e3c80c",
+    "name": "Fresh Chinigura Rice",
+    "description": "Fresh Chinigura Rice. Fresh and Clean, Vacuum Packed. Fresh Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "imageURLs": [
+      "https://chaldn.com/_mpimage/fresh-chinigura-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D84466&q=low&v=1&m=400&webp=1"
+    ],
+    "unit": "kg",
+    "price": "357",
+    "category": "Rice",
+    "brand": {
+      "name": "Fresh",
+      "id": "63396673ec4a972180d3495c"
+    },
+    "store": {
+      "name": "khulna",
+      "id": "6337398e96d1095f7ff4c826"
+    },
+    "suppliedBy": {
+      "name": "rasel ahmed",
+      "id": "633972438daa318b30a1aaeb"
+    },
+    "sellCount": 17
+  },
+  {
+    "productId": "633aae4cc08c2aa189e3c80d",
+    "name": "ACI Pure Miniket Rice Premium",
+    "description": "ACI Pure Miniket Rice Premium. Fresh and Clean, Vacuum Packed. ACI Pure Miniket Rice Premium can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "imageURLs": [
+      "https://chaldn.com/_mpimage/aci-pure-miniket-rice-premium-10-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48063&q=best&v=1&m=400&webp=1"
+    ],
+    "unit": "kg",
+    "price": "257",
+    "category": "Rice",
+    "brand": {
+      "name": "ACI",
+      "id": "63396673ec4a972180d3495b"
+    },
+    "store": {
+      "name": "khulna",
+      "id": "6337398e96d1095f7ff4c826"
+    },
+    "suppliedBy": {
+      "name": "jhankar mahbub",
+      "id": "633972108daa318b30a1aae9"
+    },
+    "sellCount": 103
+  }
+]
